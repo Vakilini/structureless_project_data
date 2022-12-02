@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>background-attachment</title>
+  <style>
+   body {
+    background-image: url(https://gif1.mycdn.me/image?t=44&bid=835038013128&id=834515819819&plc=WEB&tkn=*UK1YYT8umKYaI0aL9yv8Q4ep3lo), url(http://picsfab.com/download/image/106992/6408x4272_goluboj-fon-s-belyimi-otbleskami-i-siyaniyami.jpg);
+    background-attachment: fixed, scroll;    
+    background-repeat: repeat-y, repeat-y;
+    background-position: left, right;    
+   }
+div {
+    width: 500px; 
+    height: 1500px;
+    background: white;
+    margin-left: 600px;
+    border: solid 1px blue; 
+}
+  </style>
+ </head>
+ <body>
+  <div>
+    <h1>Первый текст</h1>
+  </div>
+<div>
+    <h1>Второй текст</h1>
+  </div>
+ </body>
+</html>

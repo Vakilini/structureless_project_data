@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UNF-8"/>
+<title> My ferst progect "My diary"</title>
+<link rel="shortcut icon" href="http://romanchueshov.ru/wp-content/themes/raten/favicon.ico">	
+</head>
+
+<body>
+
+</body>
+</html>
